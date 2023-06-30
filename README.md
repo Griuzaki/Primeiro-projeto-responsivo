@@ -5,8 +5,8 @@
 
 <section align="center">
   
-  <img width="450px" src="https://github.com/Griuzaki/easy-shopping/blob/master/assets/desktop.jpg.png?raw=true">
-  <img height="250px" src="https://github.com/Griuzaki/easy-shopping/blob/master/assets/mobile.jpg.png?raw=true">
+  <img width="700px" src="https://github.com/Griuzaki/easy-shopping/blob/master/assets/desktop.jpg.png?raw=true">
+  <img height="300px" src="https://github.com/Griuzaki/easy-shopping/blob/master/assets/mobile.jpg.png?raw=true">
 
 </section>
 
