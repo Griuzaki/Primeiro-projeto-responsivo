@@ -10,7 +10,7 @@
 
 </section>
 
-<h3 align="center" >Projeto Responsivo Desenvolvido Por...</h3> 
+<h3 align="center" >Projeto Responsivo - Tecnologia Utilizadas ...</h3> 
 
 <section align="center" padding="30px">
   
